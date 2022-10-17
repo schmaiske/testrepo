@@ -1,0 +1,48 @@
+body {background-color:black;font-family: arial;color:white}
+h1{color:grey;font-family:verdana; font-size: 125%;align-self: start;}
+/*Configure tags with color, font and alignment*/
+.maindiv{
+    background-color: white;
+    color: black;
+    width: 300px;
+    padding:20px;
+    border-radius: 25px;
+    align-self: flex-start;
+    margin-left: 20px;
+}
+/*Configure the class with color, font, alignment, margin and borders*/
+select{
+    text-align:center;
+}
+/*Configure the tag by aligning the tex*/
+#principal{
+    max-width: 35%;
+    margin-inline-start: 16%;
+}
+/*Set id with width and margin alignment*/
+#rate{
+    max-width: 20%;
+    margin-inline-start: 4%;
+    position: static;
+}
+/*Sets id with maximum width size, margin alignment and position*/
+#years{
+    margin-inline-start: 8%;
+}
+/*Set the id with margin alignment*/
+.comum{
+    float: left;
+    font-size: 80%;
+    margin-left:20px;
+}
+/*Configure the class with floating alignment, font size and margin alignment.*/
+button{
+    max-width: 35%;
+    font-size: 50%;
+    margin-left:20px;
+}
+/*set id with font size and text alignment*/
+#result{
+    font-size: 80%;
+    text-align: end ;
+}
